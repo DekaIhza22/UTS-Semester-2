@@ -30,7 +30,7 @@ $onscreen = '<table class="table" width="100%">
                     <td>'.$resp['i_name'].'</td>
                     <td>'.$resp['i_sell'].'</td>
                     <td>'.$resp['i_qty'].'</td>
-                  </tr>'; 
+                  </tr>';
    }               
  }      
  $onscreen.='</table>';
